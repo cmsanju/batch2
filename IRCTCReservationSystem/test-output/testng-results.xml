@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18388" started-at="2020-10-20T20:17:39 IST" finished-at="2020-10-20T20:17:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18388" started-at="2020-10-20T20:17:39 IST" finished-at="2020-10-20T20:17:57 IST">
+      <class name="com.ict.springboot.selenium.ReservationPage">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="launchBrowser" is-config="true" duration-ms="2196" started-at="2020-10-20T20:17:39 IST" finished-at="2020-10-20T20:17:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test1headingsPresent()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="test1headingsPresent" duration-ms="47" started-at="2020-10-20T20:17:41 IST" finished-at="2020-10-20T20:17:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1headingsPresent -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="teardown" is-config="true" duration-ms="96" started-at="2020-10-20T20:17:41 IST" finished-at="2020-10-20T20:17:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="launchBrowser" is-config="true" duration-ms="1579" started-at="2020-10-20T20:17:41 IST" finished-at="2020-10-20T20:17:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test2linksOnHomepage()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="test2linksOnHomepage" duration-ms="25" started-at="2020-10-20T20:17:43 IST" finished-at="2020-10-20T20:17:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2linksOnHomepage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="teardown" is-config="true" duration-ms="87" started-at="2020-10-20T20:17:43 IST" finished-at="2020-10-20T20:17:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="launchBrowser" is-config="true" duration-ms="1635" started-at="2020-10-20T20:17:43 IST" finished-at="2020-10-20T20:17:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test3reservationPageHeading()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="test3reservationPageHeading" duration-ms="340" started-at="2020-10-20T20:17:44 IST" finished-at="2020-10-20T20:17:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3reservationPageHeading -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="teardown" is-config="true" duration-ms="92" started-at="2020-10-20T20:17:45 IST" finished-at="2020-10-20T20:17:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="launchBrowser" is-config="true" duration-ms="1612" started-at="2020-10-20T20:17:45 IST" finished-at="2020-10-20T20:17:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test4reservationPageFieldsType()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="test4reservationPageFieldsType" duration-ms="383" started-at="2020-10-20T20:17:46 IST" finished-at="2020-10-20T20:17:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4reservationPageFieldsType -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="teardown" is-config="true" duration-ms="123" started-at="2020-10-20T20:17:47 IST" finished-at="2020-10-20T20:17:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="launchBrowser" is-config="true" duration-ms="1600" started-at="2020-10-20T20:17:47 IST" finished-at="2020-10-20T20:17:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test5fillReservationForm()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="test5fillReservationForm" duration-ms="957" started-at="2020-10-20T20:17:48 IST" finished-at="2020-10-20T20:17:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5fillReservationForm -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="teardown" is-config="true" duration-ms="87" started-at="2020-10-20T20:17:49 IST" finished-at="2020-10-20T20:17:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="launchBrowser" is-config="true" duration-ms="1565" started-at="2020-10-20T20:17:49 IST" finished-at="2020-10-20T20:17:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test6ConfirmationForm()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="test6ConfirmationForm" duration-ms="1100" started-at="2020-10-20T20:17:51 IST" finished-at="2020-10-20T20:17:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6ConfirmationForm -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="teardown" is-config="true" duration-ms="96" started-at="2020-10-20T20:17:52 IST" finished-at="2020-10-20T20:17:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="launchBrowser" is-config="true" duration-ms="1549" started-at="2020-10-20T20:17:52 IST" finished-at="2020-10-20T20:17:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test7reservationFormEmptyFormSubmit()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="test7reservationFormEmptyFormSubmit" duration-ms="270" started-at="2020-10-20T20:17:54 IST" finished-at="2020-10-20T20:17:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7reservationFormEmptyFormSubmit -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="teardown" is-config="true" duration-ms="94" started-at="2020-10-20T20:17:54 IST" finished-at="2020-10-20T20:17:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="launchBrowser" is-config="true" duration-ms="1590" started-at="2020-10-20T20:17:54 IST" finished-at="2020-10-20T20:17:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test8reservationFormErrorpage()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="test8reservationFormErrorpage" duration-ms="1097" started-at="2020-10-20T20:17:56 IST" finished-at="2020-10-20T20:17:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8reservationFormErrorpage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ict.springboot.selenium.ReservationPage@2362f559]" name="teardown" is-config="true" duration-ms="96" started-at="2020-10-20T20:17:57 IST" finished-at="2020-10-20T20:17:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ict.springboot.selenium.ReservationPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
